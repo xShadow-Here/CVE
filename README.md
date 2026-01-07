@@ -29,9 +29,9 @@ The Flozen Theme for WordPress (versions up to and including 1.5.1) is vulnerabl
 - Verification Shell
 - Auto-Save Results
 
+### output :
   
 ```bash
-### output :
 
 - [?] Enter filename with targets: list.txt
 - [?] Enter threads (5-50): 50
