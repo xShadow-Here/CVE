@@ -1,7 +1,7 @@
 # CVE-2025-12674
 Flozen < 1.5.1 - Unauthenticated Arbitrary File Upload
 
-# Description
+### Description
 
 Flozen Theme < 1.5.1 - Unauthenticated Arbitrary File Upload
 Description
@@ -12,7 +12,7 @@ The Flozen Theme for WordPress (versions up to and including 1.5.1) is vulnerabl
 CVSS Score: 9.8 (Critical)
 Affected Versions: < 1.5.1 
 
-usage :
+### usage :
 
 - make sure shadow.zip is in the directory
 - python/python3 shadow.py
@@ -28,7 +28,7 @@ features :
 - Auto-Save Results
 
   
-###output :
+### output :
 
 [?] Enter filename with targets: list.txt
 [?] Enter threads (5-50): 50
