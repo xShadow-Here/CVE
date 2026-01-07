@@ -45,5 +45,5 @@ The Flozen Theme for WordPress (versions up to and including 1.5.1) is vulnerabl
 ```
 ## Disclaimer :
 
-This tool is for educational and security testing purposes only.
+## This tool is for educational and security testing purposes only.
 Unauthorized use of systems you don't own or don't have permission to test is illegal.
