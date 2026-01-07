@@ -14,6 +14,8 @@ The Flozen Theme for WordPress (versions up to and including 1.5.1) is vulnerabl
 
 ~ **Affected Versions: < 1.5.1**
 
+# Researcher : **Phat RiO - BlueRock** | (https://www.wordfence.com/threat-intel/vulnerabilities/researchers/phat-nguyen)
+
 ### usage :
 
 - make sure shadow.zip is in the directory
