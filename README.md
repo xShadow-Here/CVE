@@ -1,7 +1,7 @@
 # CVE-2025-49071
 Flozen < 1.5.1 - Unauthenticated Arbitrary File Upload
 
-### Description
+### Description :
 
 Flozen Theme < 1.5.1 - Unauthenticated Arbitrary File Upload
 Description
