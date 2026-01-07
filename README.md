@@ -19,7 +19,7 @@ Affected Versions: < 1.5.1
 - input target file name
 - input thread 5-50 max
 
-features :
+### features :
 
 - Multi-threading
 - Error Handling
@@ -40,7 +40,7 @@ features :
 [+] Shell Ada Bro! http://example.com/wp-content/uploads/nasa-custom-fonts/shadow/index.php
 
 
-Disclaimer :
+## Disclaimer :
 
 This tool is for educational and security testing purposes only.
 Unauthorized use of systems you don't own or don't have permission to test is illegal.
