@@ -30,6 +30,7 @@ The Flozen Theme for WordPress (versions up to and including 1.5.1) is vulnerabl
 - Auto-Save Results
 
   
+```bash
 ### output :
 
 - [?] Enter filename with targets: list.txt
