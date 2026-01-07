@@ -5,7 +5,7 @@ Flozen < 1.5.1 - Unauthenticated Arbitrary File Upload
 
 Flozen Theme < 1.5.1 - Unauthenticated Arbitrary File Upload
 Description
-The Flozen Theme for WordPress (versions up to and including 1.5.1) is vulnerable to unauthenticated arbitrary file upload, due to missing authentication checks and insufficient file type validation in the flozen_add_new_custom_font() function. This vulnerability allows unauthenticated attackers to upload arbitrary files to the server.
+The Flozen Theme for WordPress (versions up to and including 1.5.1) is vulnerable to unauthenticated arbitrary file upload, due to missing authentication checks and insufficient file type validation in the flozen_add_new_custom_font() function. This allows unauthenticated attackers to upload arbitrary ZIP files containing malicious PHP code (e.g., webshell), which are automatically extracted to `wp-content/uploads/nasa-custom-fonts/`, leading to full remote code execution (RCE).
 
 
 # CVE : [**CVE-2025-49071**](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-themes/flozen-theme/flozen-151-unauthenticated-arbitrary-file-upload)
