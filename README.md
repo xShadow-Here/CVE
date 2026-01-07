@@ -28,7 +28,7 @@ features :
 - Auto-Save Results
 
   
-**output :
+**output :**
 
 [?] Enter filename with targets: list.txt
 [?] Enter threads (5-50): 50
