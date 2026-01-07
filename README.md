@@ -10,6 +10,7 @@ The Flozen Theme for WordPress (versions up to and including 1.5.1) is vulnerabl
 
 # CVE : [**CVE-2025-49071**](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-themes/flozen-theme/flozen-151-unauthenticated-arbitrary-file-upload)
 CVSS Score: 9.8 (Critical)
+
 Affected Versions: < 1.5.1 
 
 ### usage :
