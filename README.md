@@ -8,7 +8,7 @@ Description
 The Flozen Theme for WordPress (versions up to and including 1.5.1) is vulnerable to unauthenticated arbitrary file upload, due to missing authentication checks and insufficient file type validation in the flozen_add_new_custom_font() function. This vulnerability allows unauthenticated attackers to upload arbitrary files to the server.
 
 
-# CVE: [**CVE-2025-49071**](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-themes/flozen-theme/flozen-151-unauthenticated-arbitrary-file-upload)
+# CVE : [**CVE-2025-49071**](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-themes/flozen-theme/flozen-151-unauthenticated-arbitrary-file-upload)
 CVSS Score: 9.8 (Critical)
 Affected Versions: < 1.5.1 
 
